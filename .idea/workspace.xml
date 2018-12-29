@@ -6,14 +6,15 @@
     </configurations>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="578" />
-    <option name="y" value="37" />
-    <option name="width" value="1350" />
-    <option name="height" value="980" />
+    <option name="x" value="281" />
+    <option name="y" value="74" />
+    <option name="width" value="1337" />
+    <option name="height" value="877" />
   </component>
   <component name="PropertiesComponent">
-    <property name="android.sdk.path" value="F:/AndroidSDK/AndroidStudioSDK" />
+    <property name="android.sdk.path" value="D:/AndroidStudioSDK" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
